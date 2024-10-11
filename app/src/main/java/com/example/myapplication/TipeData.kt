@@ -37,3 +37,4 @@ fun main(){
     stringValue = "Hellow, kotlin"
     println("string: $stringValue")
 }
+// membuat tipe data
