@@ -11,3 +11,5 @@ fun main() {
 // Prints the new value of the property: email println(contact.email)
     println(contact.email)
 }
+
+//menunjukkan bagaimana bekerja dengan properti di dalam kelas dan memperbarui nilainya
