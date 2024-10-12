@@ -43,3 +43,4 @@ fun main() {
     val result = withReturn(5, 3)
     println("Hasil perkalian: $result")
 }
+//memanggil berbagai fungsi di Kotlin, termasuk fungsi tanpa parameter, dengan parameter, dengan named arguments, parameter default, dan fungsi yang mengembalikan nilai
