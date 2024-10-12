@@ -63,6 +63,7 @@ fun Perulangan() {
         y++
     } while (y <= 5)
 }
+// membuat fun perulangan dengan mengisi data yang di buat
 
 fun main() {
     ConditionalStatement()
