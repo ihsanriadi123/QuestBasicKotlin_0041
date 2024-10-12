@@ -15,3 +15,4 @@ fun main() {
     println({ string: String -> string.uppercase() }("hello"))
     // HELLO
 }
+// membuat reurn string lamda nya agar bisa menampilkan kata hello
