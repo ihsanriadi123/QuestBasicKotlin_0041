@@ -31,6 +31,8 @@ fun nullSafety() {
     println(strLength(neverNull)) // 18
 }
 
+//membuat data nulllable string untuk di cek conditional startments nyaa dengan operator
+
 fun main() {
     nullSafety()
 }
