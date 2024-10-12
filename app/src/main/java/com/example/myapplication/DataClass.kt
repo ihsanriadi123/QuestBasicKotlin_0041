@@ -26,3 +26,5 @@ fun main() {
     val data4 = data.copy(email = "sahar@gmail.com")
     println(data4)
 }
+
+//kode yang menggunakan data class di Kotlin, serta beberapa fungsi bawaan dari data class seperti equals, copy, dan kemampuan untuk mencetak objek
