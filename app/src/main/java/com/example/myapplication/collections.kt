@@ -105,3 +105,5 @@ fun main() {
     ContohSet()
     ContohMap()
 }
+
+// menginput data keseluruhan nya
