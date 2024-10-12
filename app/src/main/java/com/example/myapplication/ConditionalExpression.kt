@@ -69,3 +69,4 @@ fun main() {
     ConditionalStatement()
     Perulangan()
 }
+// hasil data yang di buat secara keseluruhan dengan conditonal startments
