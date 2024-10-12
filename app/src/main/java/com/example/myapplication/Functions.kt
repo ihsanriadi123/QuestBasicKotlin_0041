@@ -18,6 +18,7 @@ fun withNamedArgument(name: String, age: Int) {
     println("== withNamedArgument ==")
     println("Hello, $name! You are $age years old.")
 }
+//cara mendeklarasikan dan memanggil fungsi dengan atau tanpa parameter, serta menggunakan named arguments
 
 // Default parameter value
 // Cara memberikan nilai default pada parameter fungsi
