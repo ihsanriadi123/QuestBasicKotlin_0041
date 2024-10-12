@@ -32,6 +32,7 @@ fun withDefaultParameter(name: String = "Indra", age: Int) {
 fun withReturn(panjang: Int, lebar: Int): Int {
     return panjang * lebar
 }
+// membuat fungsi return value dan memberikan nilai pada nilai fungsi default pada parameter
 
 fun main() {
     withoutParameter()
