@@ -98,6 +98,7 @@ fun ContohMap() {
     val shapesLocked: Map<String, Int> = shape
     println(shapesLocked)
 }
+//bagaimana melakukan perubahan seperti menambahkan, menghapus, dan memperbarui nilai
 
 fun main() {
     ContohList()
